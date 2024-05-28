@@ -1,0 +1,9 @@
+ReqResp
+logs/*.log
+ReqResp/*.txt
+*.log
+*.ppk
+*.pem
+logs/
+RUNNING_PID*
+
